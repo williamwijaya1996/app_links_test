@@ -7,7 +7,8 @@
             "namespace": "android_app",
              "package_name": "com.example.app_link_test",
             "sha256_cert_fingerprints": [
-                "42:D3:D8:0E:42:67:DC:8F:6E:67:BA:EF:E1:87:E8:0A:0E:A7:FB:1D:42:79:2B:16:DF:5D:2F:90:FF:68:59:82"
+                "42:D3:D8:0E:42:67:DC:8F:6E:67:BA:EF:E1:87:E8:0A:0E:A7:FB:1D:42:79:2B:16:DF:5D:2F:90:FF:68:59:82",
+                "73:42:75:9A:BF:C9:65:53:43:BD:95:5D:BF:BE:A9:BC:63:EC:02:76:6E:18:04:3F:72:7B:5D:84:0C:D1:B6:71"
             ]
         }
     }
